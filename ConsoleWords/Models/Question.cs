@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace words.Models
 {
-    internal class Topic
+    internal class Question
     {
         public Guid Id { get; set; }
         public string Title { get; set; }

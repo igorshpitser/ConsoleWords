@@ -31,5 +31,9 @@ namespace words.Models
         {
             return $"{Title} : {getAverageLevel()}";
         }
+        public string Test()
+        {
+            return "test string";
+        }
     }
 }
